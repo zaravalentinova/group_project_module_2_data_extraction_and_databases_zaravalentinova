@@ -1,4 +1,7 @@
-DROP SCHEMA IF EXISTS `proyecto_grupal_mod_2` ;
+### CREACIÓN BDD proyecto_grupal_mod_2 ###
+
+DROP SCHEMA `proyecto_grupal_mod_2` ;
+
 
 CREATE SCHEMA IF NOT EXISTS `proyecto_grupal_mod_2`;
 USE `proyecto_grupal_mod_2` ;
@@ -15,7 +18,6 @@ CREATE TABLE IF NOT EXISTS artistas (
 CREATE TABLE IF NOT EXISTS canciones (
     id_cancion INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(255),
-    artista VARCHAR(255),
     genero_musical VARCHAR(100),
     tipo VARCHAR(250),
     año_lanzamiento INT,
