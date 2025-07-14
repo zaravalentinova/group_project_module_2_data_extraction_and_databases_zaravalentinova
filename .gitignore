@@ -1,0 +1,5 @@
+# Ignorar archivo de variables de entorno con claves sensibles
+.env
+
+# Ignorar archivo de caché
+.cache
