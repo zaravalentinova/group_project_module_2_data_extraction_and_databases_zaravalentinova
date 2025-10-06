@@ -1,7 +1,7 @@
 README 
 
 Hola! 👋
-Somos las Drama-Quer1es y queremos presentaros nuestro proyecto para MUSIC STREAM 🎶
+Somos cuatro alumnas del Bootcamp de Adalab de Data Analytics y queremos presentaros nuestro proyecto para MUSIC STREAM 🎶
  
 Hemos construido un sistema automatizado que recolecta, organiza y almacena información musical desde plataformas como Spotify y Last.fm, integrándola en una base de datos relacional en MySQL.
 El objetivo no es solo obtener datos, sino convertir esa información en conocimiento útil para comprender mejor el panorama musical actual: ¿Qué artistas destacan?, ¿Qué géneros están creciendo?, ¿Cómo se relacionan entre sí los músicos?, ¿Qué temáticas predominan?, entre muchos otros 📈. 
